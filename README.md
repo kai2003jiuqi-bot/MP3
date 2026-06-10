@@ -1,9 +1,5 @@
 # MP3 Player — 嵌入式音乐播放器
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-STM32F405RGT6-green)]()
-[![Status](https://img.shields.io/badge/Status-开发中-yellow)]()
-
 基于 **STM32F405RGT6** 的嵌入式 MP3 播放器，采用硬件解码，支持触摸 GUI、USB 大容量存储和歌单管理。
 
 ---
